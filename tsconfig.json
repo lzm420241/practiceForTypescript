@@ -1,11 +1,10 @@
 {
     "compilerOptions": {
-        "out": "built/out.js", 
+        "out": "built/2.variableDeclaration.js", 
         "sourceMap": true, 
         "target": "es5"
     }, 
     "files": [
-        "greeter.ts", 
-        "greeter.ts"
+        "2.variableDeclaration.ts"
     ]
 }

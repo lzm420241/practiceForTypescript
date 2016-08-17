@@ -6,7 +6,7 @@ var Student = (function () {
         this.fullName = firstName + " " + middleInitial + " " + lastName;
     }
     return Student;
-})();
+}());
 function greeter(person) {
     return "Hello, " + person.firstName + " " + person.lastName;
 }
